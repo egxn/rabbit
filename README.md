@@ -1,0 +1,4 @@
+# Rabbit 🐰
+
+A habit tracker
+
